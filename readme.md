@@ -33,8 +33,7 @@ Within the main activity, the method below selects the xml object by ID. Using t
         String message = editText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
-    }
-    '''
+    }'''
 
 
 
