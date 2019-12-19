@@ -25,14 +25,16 @@ It will show you how to create the text box, button and text view.
 
 Within the main activity, the method below selects the xml object by ID. Using that ID I am able to grab the data input to pass to the next activity
 
-'''    /** Called when the user taps the Send button */
+'''java 
+/** Called when the user taps the Send button */
     public void sendMessage(View view) {
         Intent intent = new Intent(this, DisplayMessageActivity.class);
         EditText editText = (EditText) findViewById(R.id.editText);
         String message = editText.getText().toString();
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
-    }'''
+    }
+    '''
 
 
 
