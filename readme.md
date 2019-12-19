@@ -13,8 +13,8 @@ Current version:
   3) Virtual device used = "Nexus 5X API 29 x86"
   
   
-![](images/HomeScreenOfActivity.png)
-
+![](images/HomeScreenOfActivity.png 100x20)
+![](images/2ndActivity.png 100x20)
 
 If you take a look at the layout XML files in this path:
 Linking_Activities/app/src/main/res/layout/
