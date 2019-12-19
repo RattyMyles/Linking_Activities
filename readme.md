@@ -13,13 +13,14 @@ Current version:
   3) Virtual device used = "Nexus 5X API 29 x86"
   
   
-![](images/HomeScreenOfActivity.png 100x20)
-![](images/2ndActivity.png 100x20)
+  
+<img src="images/HomeScreenOfActivity.png" width="300" height="480" >
+<img src="images/2ndActivity.png" width="300" height="480" >
+
 
 If you take a look at the layout XML files in this path:
 Linking_Activities/app/src/main/res/layout/
-
-I will show you how to create the text box, button and text view. 
+It will show you how to create the text box, button and text view. 
 
 
 
