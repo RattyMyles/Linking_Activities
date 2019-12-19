@@ -13,3 +13,4 @@ Current version:
   3) Virtual device used = "Nexus 5X API 29 x86"
   
   
+![](images/HomeScreenOfActivity.png)
