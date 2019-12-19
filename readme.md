@@ -10,10 +10,10 @@ An activity is an application component that provides a screen with which users 
   -Android SDK tool Version 26.1.1
   -Virtual device used = "Nexus 5X API 29 x86"
   
-  
 
-![](images/HomeScreenOfActivity.png =300x480)
-![](images/2ndActivity.png =300x480)
+
+<img src="https://github.com/RattyMyles/Linking_Activities/blob/master/images/HomeScreenOfActivity.png" width="300" height="480"><img src="https://github.com/RattyMyles/Linking_Activities/blob/master/images/2ndActivity.png" width="300" height="480">
+
 
 If you take a look at the layout XML files in this path:
 ```
