@@ -12,8 +12,8 @@ An activity is an application component that provides a screen with which users 
   
   
 
-![Pic 1](images/HomeScreenOfActivity.png =300x480)
-![Pic 2](images/2ndActivity.png =300x480)
+![](images/HomeScreenOfActivity.png =300x480)
+![](images/2ndActivity.png =300x480)
 
 If you take a look at the layout XML files in this path:
 ```
