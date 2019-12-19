@@ -14,3 +14,13 @@ Current version:
   
   
 ![](images/HomeScreenOfActivity.png)
+
+
+If you take a look at the layout XML files in this path:
+Linking_Activities/app/src/main/res/layout/
+
+I will show you how to create the text box, button and text view. 
+
+
+
+
