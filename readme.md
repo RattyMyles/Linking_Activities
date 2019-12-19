@@ -17,7 +17,9 @@ An activity is an application component that provides a screen with which users 
 
 
 If you take a look at the layout XML files in this path:
+```
 Linking_Activities/app/src/main/res/layout/
+```
 It will show you how to create the text box, button and text view. 
 
 
